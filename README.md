@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Pedro and i'm currently studying (really happy) software engineering at UTFPR (Federal University of Technology Paraná), second year.
+I'm currently an intern at [Compass UOL](https://compass.uol/pt/home/) as QA with IA. When i first started the intership i actually had no idea about QAs and it's functions on software developments. Now i understand what QAs do and it's importance (it is really² important)
+My career's final goal is to work with mobile development while living in Switzerland, that is why i've started studying german.
 
 <!--
 **pBittencourtS/pBittencourtS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
